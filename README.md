@@ -18,3 +18,5 @@ is 1X10 one hot representation of labels
 
 - test_350 have 350 examples in a set - used in TENSORFLOW model and NN model
 - test_1000 have 1000 examples in a set- used in other two
+
+![screenshot 30](https://user-images.githubusercontent.com/37634919/47503940-e42b6080-d888-11e8-9b1e-3a93bae604ef.png)
