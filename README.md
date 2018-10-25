@@ -1,2 +1,20 @@
 # Hand-Written-digit-Recognition
-this is it
+Classify hand written digit on a gray scale image
+
+# Files:
+- Digit Recognition with gradient descent
+- NN_digit_recognition
+uses Neural Network to train the model
+- Regularized digit recognition
+uses regularization in gradient descent
+- HandWritten digit recongtion in TENSORFLOW
+
+- data
+10,0000 different gray scale images of handwritten digits, in csv
+- label
+its corresponding labels
+- label_mx10
+is 1X10 one hot representation of labels
+
+- test_350 have 350 examples in a set - used in TENSORFLOW model and NN model
+- test_1000 have 1000 examples in a set- used in other two
